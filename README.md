@@ -14,3 +14,9 @@ Production files for El Camino High School's Oklahoma, Spring 2022
 - Lighting control
   - ETC Eos Ion Xe
   - OSC
+- automatic timers
+  - for act 1, intermission, act 2
+  - using empty MIDI timecode cue
+    - pause at end of section to hold final value
+    - reset with stop or panic
+  - preview values in Timecode tab
